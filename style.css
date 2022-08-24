@@ -2,5 +2,11 @@ body {
     background-color: black;
 }
 h1 {
-    color: white
+    color: white;
+}
+#ucrania {
+    color: blue;
+}
+#russia {
+    color: red;
 }
